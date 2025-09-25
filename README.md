@@ -1,6 +1,6 @@
-# ¡Hola! 👋 Soy Julio López
+# ¡Hola! 👋 Soy [Tu Nombre]
 
-Soy un desarrollador/apasionado de la tecnología que disfruta trabajar con sistemas. Me gusta aprender y explorar nuevas herramientas para crear proyectos interesantes.
+Soy un apasionado desarrollador con interés en bases de datos y virtualización.
 
 ## Tecnologías que uso
 
@@ -12,8 +12,13 @@ Soy un desarrollador/apasionado de la tecnología que disfruta trabajar con sist
 
 ## Estadísticas GitHub
 
-![Tu Nombre's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Julio GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+
+## Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
 
 ---
 
 ¡Gracias por visitar mi perfil! 🚀
+
