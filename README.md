@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy [Tu Nombre]
 
-Soy un apasionado desarrollador con interés en bases de datos y virtualización.
+Soy un apasionado en sistemas con interés en en el mundo de la tecnologías en general. Además disfruto editando videos y utilizando algún programa para hacer música.
 
 ## Tecnologías que uso
 
